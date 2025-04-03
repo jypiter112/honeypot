@@ -1,0 +1,4 @@
+# These files are ignored on this repo
+*.log
+*.txt
+logs/
